@@ -2,6 +2,7 @@ html, body {
     padding: 0;
     margin: 0;
     background-color: black;
+    color: #fff;
 }
 
 .nav {
@@ -9,9 +10,11 @@ html, body {
     height: 40px;
     padding: 0 20px;
 }
-.nav-fiexd{
+
+.nav-fiexd {
     position: fixed;
 }
+
 .nav > label {
     color: #ffffff;
     line-height: 40px;
