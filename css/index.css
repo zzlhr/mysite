@@ -1,0 +1,34 @@
+body{
+    background: #000;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+.fixed{
+    position: fixed;
+}
+.header-nav{
+    top: 0;
+    border-bottom: 1px solid #666;
+    padding: 0 18px;
+}
+.nav{
+    width: 100%;
+    height: 60px;
+}
+.header-title{
+    line-height: 60px;
+    margin: 0;
+}
+.index-content{
+    width: 800px;
+    text-align: center;
+    margin: 200px auto auto;
+}
+.smail-img{
+    width: 60px;
+    height: 60px;
+}
+.jump-home{
+    margin-top: 20px;
+}
